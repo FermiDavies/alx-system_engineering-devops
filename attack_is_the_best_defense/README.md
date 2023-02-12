@@ -1,1 +1,0 @@
-<h1 align="center">ATTACK IS THE BEST DEFENSE</h1>
