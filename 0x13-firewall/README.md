@@ -1,1 +1,0 @@
-<h1 align="center">0x13. FIREWALL</h1>
